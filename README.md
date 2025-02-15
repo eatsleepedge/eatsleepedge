@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/eatsleepedge/eatsleepedge/blob/de3779d0f71db620835836a762a0be4c94178c9f/1-1-square-img_0452_polarr-jpg_custom_resized.jpg" width = "250" alt="ululu"/>
+  <img src="https://github.com/user-attachments/assets/5c308a28-79f6-44cd-bab4-826cd19e78d0" width = "500" alt="ululu"/>
 </p>
