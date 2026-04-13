@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://files.catbox.moe/m3tm7g.png" width = "300" alt="ululu"/>
+  <img src="https://files.catbox.moe/m8h7ee.png" width = "400" alt="ululu"/>
 </p>
